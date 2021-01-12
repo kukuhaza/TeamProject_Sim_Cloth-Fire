@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(114): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(176): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(426): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(436): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(443): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(459): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(469): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(477): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(495): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(507): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(517): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(521): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(529): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(535): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(547): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(549): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(567): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(591): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(664): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\osthus\source\repos\termproject\termproject\main.cpp(665): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다.
+  10 of 449 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TermProject.vcxproj -> C:\Users\osthus\source\repos\termproject\Release\TermProject.exe
